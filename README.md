@@ -1,1 +1,1 @@
-# algnum
+# Algorytmy numeryczne 
